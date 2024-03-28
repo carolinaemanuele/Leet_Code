@@ -1,6 +1,6 @@
 # Leet Code
 
-Repositório destinado ao armazenamento de soluções de questões do [Leet Code](https://leetcode.com/explore/). Clique para ver o meu [perfil](https://leetcode.com/carolinaemanuele/).
+Repositório destinado ao armazenamento de soluções de questões do [Leet Code](https://leetcode.com/explore/). A solução desses problemas tem como objetivo a metodologia PBL (Problem-Based Learned), para o aprendizado de linguagens de programação como Python e uso de bibliotecas como Pandas. Clique para ver o meu [perfil](https://leetcode.com/carolinaemanuele/).
 
 ## Tecnologias utilizadas
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/explore/)
@@ -9,8 +9,10 @@ Repositório destinado ao armazenamento de soluções de questões do [Leet Code
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Meu contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+## Autora
+* Carolina Araújo, estudante do curso de Engenharia Elétrica da Universidade Federal da Bahia.
+* [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/carolinaemanuele/).
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 ---
