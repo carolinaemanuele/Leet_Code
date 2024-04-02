@@ -1,6 +1,6 @@
 # Leet Code
 
-Repositório destinado ao armazenamento de soluções de questões do [Leet Code](https://leetcode.com/explore/). A solução desses problemas tem como objetivo a metodologia PBL (Problem-Based Learned), para o aprendizado de linguagens de programação como Python e uso de bibliotecas como Pandas. Clique para ver o meu [perfil](https://leetcode.com/carolinaemanuele/).
+Repositório destinado ao armazenamento de soluções de questões do [Leet Code](https://leetcode.com/explore/). A solução desses problemas tem como objetivo a metodologia PBL (Problem-Based Learned), para o aprendizado de linguagens de programação como Python, Java e MySql e uso de bibliotecas como Pandas. Clique para ver o meu [perfil](https://leetcode.com/carolinaemanuele/).
 
 ## Tecnologias utilizadas
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/explore/)
