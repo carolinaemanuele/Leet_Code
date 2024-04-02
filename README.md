@@ -12,7 +12,7 @@ Repositório destinado ao armazenamento de soluções de questões do [Leet Code
 
 ## Autora
 * Carolina Araújo, estudante do curso de Engenharia Elétrica da Universidade Federal da Bahia.
-* [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/carolinaemanuele/).
+* [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/carolinaemanuele/)
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
