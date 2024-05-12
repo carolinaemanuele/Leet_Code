@@ -1,0 +1,13 @@
+'''
+Question 3073
+'''
+
+class Solution:
+    def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:
+        total = sum(apple)
+        capacity = sorted(capacity, reverse=True)
+        b = 0
+        while total > 0:
+            total -= capacity[b]
+            b += 1
+        return b
